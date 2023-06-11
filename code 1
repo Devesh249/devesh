@@ -1,0 +1,81 @@
+# html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BOOK STORE</title>
+    <link rel="stylesheet" href="main.css">
+  </head>
+  <body>
+    <h1>WELCOME TO OUR BOOK STORE</h1>
+    <img src="main.jpeg" id="logo" alt="coffee logo" />
+    <h3>Book Store</h3>
+    <!-- <ul>
+      <li><a href="index3.html">Home</a></li>
+      <li><a href="about2.html" target="_blank">About2</a></li>
+      <li><a href="contact.html" target="_blank">Contact</a></li>
+    </ul> -->
+    <img src="pexels-photo-4170629.jpeg" alt="coffee beens" width="80%" /> 
+    <br />
+    <h1>Types of Books</h1>
+    <br />
+    <!-- house blend -->
+    <h2>Books</h2>
+    <img src="img12.jpeg" alt="house blend" width="40%" />
+    <p style="width: 50%">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
+      dolores, dicta porro veritatis sunt odit eveniet veniam nam quod rem in
+      provident enim nesciunt, id doloribus voluptas ut saepe odio.
+    </p>
+    <h3>
+      <a href="https://en.wikipedia.org/wiki/Book/" target="_blank"
+        >Details</a
+      >
+    </h3>
+    <br>
+    <br>
+    <br>
+    <!--  -->
+    <h2>  Latest Books </h2>
+    <img src="l.jpeg" alt="french roast" width="40%" />
+    <p style="width: 50%">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
+      dolores, dicta porro veritatis sunt odit eveniet veniam nam quod rem in
+      provident enim nesciunt, id doloribus voluptas ut saepe odio.
+    </p>
+    <h3>
+      <a href="https://en.wikipedia.org/wiki/Book/" target="_blank"
+        >Details</a
+      >
+    </h3>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <p>copyright &copy;2019</p>
+    <h3><a href="#logo">Back to top</a></h3>
+  </body>
+</html>
+
+
+
+
+#css
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background-color: honeydew;
+}
+h1{
+    text-align: center;
+    background-color: blue;
+}
+#ll{
+    background-color:green ;
+    color: yellowgreen;
+}
+h4{
+    text-align: center;
+}
